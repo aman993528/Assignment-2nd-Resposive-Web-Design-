@@ -249,7 +249,7 @@ h2 {
     .detail {
         line-height: 1.25rem;
         font-size: 1.25rem;
-        min-height: 160px;
+        min-height: 120px;
     }
 
 }
@@ -261,12 +261,11 @@ h2 {
     .detail {
         line-height: 1.5rem;
         font-size: 1.5rem;
-        min-height: 160px;
     }
 
     .read {
         font-size: 1rem;
-        margin: 30px 32px 32px 45%;
+        margin: 0 32px 32px 55%;
     }
     .date{
         font-size: 1rem;
