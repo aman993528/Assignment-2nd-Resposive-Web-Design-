@@ -95,7 +95,7 @@ h2 {
 }
 
 .news-item1 {
-    border: 1px solid grey;
+    border: 1px solid #DDDDDD;
     border-radius: 5px;
     margin: 0 32px;
     margin-top: 32px;
@@ -265,7 +265,7 @@ h2 {
 
     .read {
         font-size: 1rem;
-        margin: 0 32px 32px 55%;
+        margin: 0 0 32px 60%;
     }
     .date{
         font-size: 1rem;
